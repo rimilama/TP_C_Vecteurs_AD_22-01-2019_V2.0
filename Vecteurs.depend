@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1548151703 source:c:\users\antoine\documents\ludus\f2\1. c\2. projet codeblocks\2. programme noté\vecteurs\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"init.h"
+	"menu.h"
+
+1548151709 c:\users\antoine\documents\ludus\f2\1. c\2. projet codeblocks\2. programme noté\vecteurs\main.h
+
+1548165687 source:c:\users\antoine\documents\ludus\f2\1. c\2. projet codeblocks\2. programme noté\vecteurs\init.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"init.h"
+
+1548151259 c:\users\antoine\documents\ludus\f2\1. c\2. projet codeblocks\2. programme noté\vecteurs\init.h
+	"main.h"
+
+1548167243 source:c:\users\antoine\documents\ludus\f2\1. c\2. projet codeblocks\2. programme noté\vecteurs\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1548151720 c:\users\antoine\documents\ludus\f2\1. c\2. projet codeblocks\2. programme noté\vecteurs\menu.h
+	"main.h"
+	"operation.h"
+
+1548167108 source:c:\users\antoine\documents\ludus\f2\1. c\2. projet codeblocks\2. programme noté\vecteurs\operation.c
+	<stdio.h>
+	<stdlib.h>
+	"operation.h"
+
+1548167130 c:\users\antoine\documents\ludus\f2\1. c\2. projet codeblocks\2. programme noté\vecteurs\operation.h
+	"main.h"
+
